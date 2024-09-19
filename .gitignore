@@ -1,0 +1,42 @@
+/*
+!/.gitignore
+
+#ABC folder
+!/ABC
+/ABC/*
+!/ABC/*.cpp
+
+#AGC folder
+!/AGC
+/AGC/*
+!/AGC/*.cpp
+
+#AOJ folder
+!/AOJ
+/AOJ/*
+!/AOJ/*.cpp
+
+#ARC folder
+!/ARC
+/ARC/*
+!/ARC/*.cpp
+
+#EDPC folder
+!/EDPC
+/EDPC/*
+!/EDPC/*.cpp
+
+#firm folder(企業コンテスト)
+!/firm
+/firm/*
+!/firm/*.cpp
+
+#JOI folder(企業コンテスト)
+!/JOI
+/JOI/*
+!/JOI/*.cpp
+
+#TDPC folder(企業コンテスト)
+!/TDPC
+/TDPC/*
+!/TDPC/*.cpp
